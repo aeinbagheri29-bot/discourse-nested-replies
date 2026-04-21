@@ -1,5 +1,1 @@
-# **Plugin Name** Plugin
-
-**Plugin Summary**
-
-For more information, please see: **url to meta topic**
+Moved to `discourse/discourse` in https://github.com/discourse/discourse/pull/38888
